@@ -1,8 +1,6 @@
 # LABPRACTICE
 print("the sky is blue")
-
 color=input("What is your favorite color?, Yellow, Blue, Lavender")
-
 if(color=="yellow"):
   print("My favorite cgt5f4racolor is yellow.")
 if(color=="blue"):
