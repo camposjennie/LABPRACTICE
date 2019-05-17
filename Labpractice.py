@@ -22,3 +22,6 @@ if(seasons== "WINTER"):
   print("I love the winter time.")
 
 print("I am 16 and  I like  Coffee and strawberry milkshakes")
+
+print("I like to write posm and doodle.")
+print("I love to hangout wiht my friends")
