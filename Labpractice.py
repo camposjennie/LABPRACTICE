@@ -20,15 +20,3 @@ if(seasons=="FALL"):
   print("I love the fall.")
 if(seasons== "WINTER"): 
   print("I love the winter time.")
-
-
-print("Hi Sister!!")
-<<<<<<< HEAD
-print("Yellow is my favorite color and i like to write poetry and sing.")
-print("I also like the color lavender and baby blue")
-
-print("I think this subject is  very diffcult and you did not change the due date.")
-=======
->>>>>>> 4d3e0f94a5c2df795bb192627bbdf9cd3d2f0eb3
-
-
