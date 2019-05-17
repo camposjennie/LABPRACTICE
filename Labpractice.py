@@ -12,11 +12,13 @@ print("Yes the grass is green and the sky is blue and the sun is yellow.") print
 
 season=input("What is your favorite season?")
 
-if(season=="SUMMER"): 
-  print("I love the summer time.") 
-if(seasons=="SPRING"): 
+if(season=="SUMMER"):
+  print("I love the summer time.")
+if(seasons=="SPRING"):
   print("I love the spring time.")
-if(seasons=="FALL"): 
+if(seasons=="FALL"):
   print("I love the fall.")
-if(seasons== "WINTER"): 
+if(seasons== "WINTER"):
   print("I love the winter time.")
+
+print("I am 16 and  I like  Coffee and strawberry milkshakes")
