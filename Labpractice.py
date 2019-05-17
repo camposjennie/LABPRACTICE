@@ -8,3 +8,4 @@ if(color=="blue"):
 if(color=="lavender"):
   print("My favorite color is lavender.")
 print("Hi Sister!!")
+print("Yellow is my favorite color and i like to write poetry and sing.")
