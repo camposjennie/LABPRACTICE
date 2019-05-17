@@ -8,6 +8,3 @@ if(color=="blue"):
 if(color=="lavender"):
   print("My favorite color is lavender.")
 print("Hi Sister!!")
-print("Yellow is my favorite color and i like to write poetry and sing.")
-print("I also like the color lavender and baby blue")
-print("I think this subject is  very diffcult and you did not change the due date.")
