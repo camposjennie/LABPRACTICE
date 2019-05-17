@@ -6,6 +6,8 @@ print("My favorite season is fall")
 
 print("I am 16 and  I like  Coffee and strawberry milkshakes")
 
-print("I like to write posm and doodle.")
-print("I love to hangout wiht my friends")
+print("I like to write poems and doodle)."
 
+print("I like to hangout with my friends")
+print("I love Pizza and friends")
+print("When Will YoU LEarN...WHeN WiLl YOu LEarN... THat YOUr ACTIons have coNSEQUEnces.")
